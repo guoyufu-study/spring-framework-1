@@ -1,10 +1,10 @@
 # <img src="src/docs/asciidoc/images/spring-framework.png" width="80" height="80"> Spring Framework [![Build Status](https://build.spring.io/plugins/servlet/wittified/build-status/SPR-PUBM)](https://build.spring.io/browse/SPR)
 
-This is the home of the Spring Framework: the foundation for all [Spring projects](https://spring.io/projects). Collectively the Spring Framework and the family of Spring projects are often referred to simply as "Spring". 
+这是 Spring Framework 的主页：Spring Framework 是所有 [Spring projects](https://spring.io/projects) 的基础。 Spring Framework 和 Spring projects 家族通常被统称为 "Spring"。
 
-Spring provides everything required beyond the Java programming language for creating enterprise applications for a wide range of scenarios and architectures. Please read the [Overview](https://docs.spring.io/spring/docs/current/spring-framework-reference/overview.html#spring-introduction) section as reference for a more complete introduction.
+Spring提供了Java编程语言之外所需的一切，用于为各种场景和体系结构创建企业级应用程序。请阅读 [Overview](https://docs.spring.io/spring/docs/current/spring-framework-reference/overview.html#spring-introduction) 部分作为参考，以获得更完整的介绍。
 
-## Code of Conduct
+## 行为守则
 
 This project is governed by the [Spring Code of Conduct](CODE_OF_CONDUCT.adoc). By participating, you are expected to uphold this code of conduct. Please report unacceptable behavior to spring-code-of-conduct@pivotal.io.
 
